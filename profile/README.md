@@ -11,9 +11,9 @@ Our open-source project aims to allow everyone to freely create and share digita
 
 ## CASE 🙌
 
-[Case](https://github.com/case-app/case) - Contribute to our Case open-source code base  
+[CASE](https://github.com/case-app/case) - Contribute to our Case open-source code base  
 
-[Case starter](https://github.com/case-app/case-starter) - Build your Case app  
+[CASE starter](https://github.com/case-app/case-starter) - Build your Case app  
 
 [Doc](https://github.com/case-app/case/tree/master/docs) - Serve the Case documentation  
 
