@@ -1,7 +1,8 @@
 ## Hello world ! 👋
 
 
-![social-cover-dark-background](https://user-images.githubusercontent.com/50170060/225934352-f554f711-1b1a-413e-b083-93d12e409299.png)
+![case-projects](https://user-images.githubusercontent.com/50170060/227972978-714bbabe-6dc5-445b-852d-0ccd5a47c41e.png)
+
 
 CASE is an Angular and Nest based framework, wich enabling developers to create solid custom business applications quickly and easily by providing resource management functionality. 👊
 
