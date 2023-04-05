@@ -24,7 +24,7 @@ Our open-source project aims to allow everyone to freely create and share digita
 
 CASE is made for developers first, so if you have any ideas, issues, wishes don't hesitate let’s talk !
 
-[Discord](https://discord.gg/mFVZryKn) - Chat with our wonderful community and the core team. 
+[Discord](https://discord.com/invite/FepAked3W7) - Chat with our wonderful community and the core team. 
 
 
 ## Contribution 
