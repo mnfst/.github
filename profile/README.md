@@ -5,4 +5,4 @@ CASE is a Typescript lightweight BaaS (Backend As A Service) requiring minimal c
 Our open-source project aims to allow everyone to freely create and share digital tools that have a positive impact.
 
 #### Quick links
-• [Go to quick start guide](https://docs.case.app/#/getting-started/quick-start-guide) • [Join our Discord community](https://discord.gg/FepAked3W7) • [Docs](https://docs.case.app/#/README) • [CASE Website](https://case.app/)
+[Join our Discord community](https://discord.gg/FepAked3W7) • [Docs](https://docs.case.app/#/README) • [CASE Website](https://case.app/)
