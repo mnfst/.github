@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-The simplest <strong>BaaS (Backend As A Service)</strong> you will find.
+The simplest <strong>Healdess CMS</strong> you will find.
 </p>
