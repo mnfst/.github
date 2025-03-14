@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-The simplest <strong>Micro-backend</strong> you will find.
+The simplest <strong>backend</strong> you will find.
 </p>
