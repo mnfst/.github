@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-The simplest backend you will find.
+Apps for an agentic world
 </p>
