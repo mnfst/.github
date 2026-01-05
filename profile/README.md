@@ -9,5 +9,6 @@
 </p>
 
 <p align="center">
-Apps for an agentic world
+ChatGPT App builder for Ops teams
 </p>
+
