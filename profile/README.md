@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-ChatGPT App builder for Ops teams
+ChatGPT App builder
 </p>
 
