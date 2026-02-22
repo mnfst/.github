@@ -4,7 +4,7 @@
     <img alt="manifest" src="https://manifest.build/assets/images/logo-transparent.svg" height="55px" alt="Manifest logo" title="Manifest - Make OpenClaw cost less" />
   </a>
   <a href="https://manifest.build/#gh-dark-mode-only">
-    <img alt="manifest" src="https://manifest.build/assets/images/logo-light.svg" height="55px" alt="Manifest logo" title="Manifest - Make OpenClaw cost less" />
+    <img alt="manifest" src="https://manifest.build/assets/images/logo-white.svg" height="55px" alt="Manifest logo" title="Manifest - Make OpenClaw cost less" />
   </a>
 </p>
 
