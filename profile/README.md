@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-Make OpenClaw cost less
+Make Agents cost less
 </p>
 
