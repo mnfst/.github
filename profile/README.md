@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-Make Agents cost less
+Make agents cost less
 </p>
 
