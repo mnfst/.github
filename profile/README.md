@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-Make agents cost less
+Make agents and apps cost less
 </p>
 
