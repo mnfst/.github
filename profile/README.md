@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-Make agents and apps cost less
+Connect Your Agents And Harnesses With Any Provider 🦚
 </p>
 
